@@ -1,10 +1,10 @@
 # Strategy Analysis of AI in the Healthcare Industry
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-completed-brightgreen" />
-  <img src="https://img.shields.io/badge/type-academic%20report-blue" />
-  <img src="https://img.shields.io/badge/domain-AI%20in%20Healthcare-purple" />
-  <img src="https://img.shields.io/badge/course-OMT%20520%20%40%20ASU-orange" />
+  <img src="https://img.shields.io/badge/Status-completed-brightgreen" />
+  <img src="https://img.shields.io/badge/Type-academic%20report-blue" />
+  <img src="https://img.shields.io/badge/Domain-AI%20in%20Healthcare-purple" />
+  <img src="https://img.shields.io/badge/Course-OMT%20520%20%40%20ASU-orange" />
 </p>
 
 Hi! 👋  
